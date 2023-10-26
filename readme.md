@@ -1,4 +1,4 @@
-## Daniel Alejandro Ordoñez Clavijo 67000567
+## Yubran Alexy Martinez 67000433
 
 
 # Explicacíon del codigo:
